@@ -3,5 +3,33 @@
     "name": "John Smith",
     "city": "New York, NY"
   },
-  "playlists" : []
+  "playlists": [
+    {
+      "name": "Testing Platylist",
+      "description": "Here's my description",
+      "image": "https://images.unsplash.com/photo-1641522682563-850550dff807?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "followers": 0,
+      "tracks": [
+        "3LI4MmibTkXH5cGpCGZgyw",
+        "0skYUMpS0AcbpjcGsAbRGj",
+        "3GdWfmQBiiJrDUvSZS1bGv",
+        "7fSM2taFBEB1WNZl8AOIoo"
+      ],
+      "id": 1
+    },
+    {
+      "name": "Here is a second playlist",
+      "description": "j;asfjsepovneveon",
+      "image": "https://images.unsplash.com/photo-1663161161818-3acc28cb70bf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "followers": 0,
+      "tracks": [
+        "2yhhcHTfvLC0HzSajGYL0h",
+        "26bL4gSULWDgdIMX0pRFrG",
+        "2tTmW7RDtMQtBk7m2rYeSw",
+        "6I5DkMtgMjN6k270nRwNEl",
+        "2xbI8Vmyv3TkpTdywpPyNw"
+      ],
+      "id": 2
+    }
+  ]
 }
